@@ -11,7 +11,7 @@ namespace GhicesteNumar
         static void Main(string [] args)
         {
             Random rng = new Random();
-            int generat = rng.Next(1,100);
+            int generat = rng.Next(1,101);
             //Console.WriteLine(generat);   // doar pentru verificare
             int introdus;
             do
